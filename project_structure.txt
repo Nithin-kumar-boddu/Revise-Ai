@@ -1,0 +1,13 @@
+revise_ai/
+├── .env                  # Environment variables (API keys)
+├── backend/
+│   ├── __init__.py
+│   ├── app.py            # Flask application
+│   ├── models/
+│   │   └── gemini.py     # Gemini API integration
+│   └── utils/
+│       └── cache.py      # Caching mechanism
+├── frontend/
+│   └── app.py            # Streamlit application
+├── requirements.txt      # Project dependencies
+└── README.md             # Project documentation
