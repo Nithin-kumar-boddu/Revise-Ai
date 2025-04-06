@@ -28,7 +28,7 @@ Revise AI is an intelligent study assistant designed to help students prepare fo
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/revise-ai.git
+   git clone https://github.com/Nithin-kumar-boddu/Revise-Ai.git
    cd revise-ai
    ```
 
@@ -91,7 +91,5 @@ revise_ai/
 ├── requirements.txt      # Project dependencies
 └── README.md             # Project documentation
 ```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+Disclaimer:
+By using **Revise AI**, you agree that any commercial use, distribution, or misuse of the model without prior written consent from the creators will be subject to legal action. Unauthorized use or exploitation of this model for business purposes or any activities that violate its intended educational purpose will be prosecuted accordingly.
